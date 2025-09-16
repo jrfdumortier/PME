@@ -22,3 +22,7 @@ Producer Theory
      2. [Producer Theory](https://youtu.be/EilB16BfgG0)
      3. [Short-Run and Long-Run Expansion Path of Firms](https://youtu.be/InGKsb2M9_M)
      4. [Profit Maximization](https://youtu.be/hys53bsCIvc)
+     
+Cost Theory
+- [Lecture Notes: Cost Theory](https://github.com/jrfdumortier/PME/raw/main/Cost%20Theory%20(Notes).pdf)
+- [Video: Cost Theory](https://youtu.be/gbk74yfAXhw?si=KHQxJkaP5-c_jpnJ)
