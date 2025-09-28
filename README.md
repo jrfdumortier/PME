@@ -24,5 +24,12 @@ Producer Theory
      4. [Profit Maximization](https://youtu.be/hys53bsCIvc)
      
 Cost Theory
+
 - [Lecture Notes: Cost Theory](https://github.com/jrfdumortier/PME/raw/main/Cost%20Theory%20(Notes).pdf)
 - [Video: Cost Theory](https://youtu.be/gbk74yfAXhw?si=KHQxJkaP5-c_jpnJ)
+
+Demand and Supply
+
+- [Lecture Notes: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Notes).pdf)
+- [Slides: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Slides).pdf)
+- [Video: Demand and Supply](https://youtu.be/DAOoQX5_RKg?si=QTfWWKDPU_pzWaxF)
