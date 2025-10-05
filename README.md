@@ -33,3 +33,11 @@ Demand and Supply
 - [Lecture Notes: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Notes).pdf)
 - [Slides: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Slides).pdf)
 - [Video: Demand and Supply](https://youtu.be/DAOoQX5_RKg?si=QTfWWKDPU_pzWaxF)
+
+Perfect Competition
+
+- [Lecture Notes: Perfect Competition](https://github.com/jrfdumortier/PME/raw/main/Perfect%20Competition%20(Notes).pdf)
+- [Video: Representation of Profit and Loss given Marginal and Average Cost](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
+- [Video:  Long-Run Equilibrium in a Perfectly Competitive Market and Zero Economic Profit Condition ](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
+- [Video: Taxes](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
+- [Video: Price Ceilings and Price Floors](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
