@@ -41,3 +41,8 @@ Perfect Competition
 - [Video:  Long-Run Equilibrium in a Perfectly Competitive Market and Zero Economic Profit Condition ](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 - [Video: Taxes](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 - [Video: Price Ceilings and Price Floors](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
+
+Imperfect Competition
+
+- [Lecture Notes: Imperfect Competition](https://github.com/jrfdumortier/PME/raw/main/Imperfect%20Competition%20(Notes).pdf)
+- [Video: Imperfect Competition](https://youtu.be/CK3dcB7lrYI?si=WLIBlNR2LgDuyai0)
