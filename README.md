@@ -49,6 +49,7 @@ Imperfect Competition
 
 Game Theory
 
+- [Lecture Notes: Game Theory](https://github.com/jrfdumortier/PME/raw/main/Game%20Theory%20(Notes).pdf)
 - [Slides: Game Theory](https://github.com/jrfdumortier/PME/raw/main/Game%20Theory%20(Slides).pdf)
 - [Video: Basics of Game Theory](https://youtu.be/zQBZvcEUo5s)
 - [Video: Sequential Games and Entry Deterrence](https://youtu.be/D1Ij0o1FEYI)
