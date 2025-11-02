@@ -53,3 +53,9 @@ Game Theory
 - [Slides: Game Theory](https://github.com/jrfdumortier/PME/raw/main/Game%20Theory%20(Slides).pdf)
 - [Video: Basics of Game Theory](https://youtu.be/zQBZvcEUo5s)
 - [Video: Sequential Games and Entry Deterrence](https://youtu.be/D1Ij0o1FEYI)
+
+Externalities
+
+- [Lecture Notes: Externalities](https://github.com/jrfdumortier/PME/raw/main/Externalities%20(Notes).pdf)
+- [Video: Positive and Negative Externalities](https://youtu.be/bXkJ2aCP4-4?si=AQMPmAEDyw0-GTdg)
+- [Video: Pollution Control Policies](https://youtu.be/fbDIqlCzD4E?si=WyKg6xTgLhWxOsbT)
