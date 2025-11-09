@@ -1,8 +1,7 @@
 # Public Management Economics
 
-Introduction [[Notes](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Notes).pdf)]
+**Introduction** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Slides).pdf)]
 
-- [Slides: Introduction to Public Management Economics](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Slides).pdf) 
 - [Video: Introduction to Public Management Economics](https://youtu.be/M5Q3xLzvfBY?si=psLbBeEe3KZsVPZW)
 
 Consumer Theory
@@ -12,9 +11,8 @@ Consumer Theory
 - [Lecture Notes: Consumer Theory II](https://github.com/jrfdumortier/PME/raw/main/Consumer%20Theory%20II%20(Notes).pdf)
 - [Video:  Consumer Theory Applications](https://youtu.be/oG7GclC0ZgQ?si=yFgRnVMSFi-tot7S)
 
-Producer Theory
+Producer Theory [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Producer%20Theory%20(Notes).pdf)]
 
-- [Lecture Notes: Producer Theory](https://github.com/jrfdumortier/PME/raw/main/Producer%20Theory%20(Notes).pdf)
 - [Slides: Producer Theory](https://github.com/jrfdumortier/PME/raw/main/Producer%20Theory%20(Slides).pdf)
 - There are multiple videos for this section and the suggested watching order is as follows:
      1. [Brief Introduction to Producer Theory](https://youtu.be/MnxhPmNAiBY)
@@ -58,3 +56,8 @@ Externalities
 - [Lecture Notes: Externalities](https://github.com/jrfdumortier/PME/raw/main/Externalities%20(Notes).pdf)
 - [Video: Positive and Negative Externalities](https://youtu.be/bXkJ2aCP4-4?si=AQMPmAEDyw0-GTdg)
 - [Video: Pollution Control Policies](https://youtu.be/fbDIqlCzD4E?si=WyKg6xTgLhWxOsbT)
+
+Public Goods and Asymmetric Information [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
+
+- [Video: Introduction to Public Goods](https://youtu.be/XZrOdBuMpuo)
+- [Video: Asymmetric Information and Insurance Markets](https://youtu.be/k3veHT4rSiU?si=3m9iaYA1U06JlYnd)
