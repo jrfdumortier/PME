@@ -1,63 +1,51 @@
 # Public Management Economics
 
-**Introduction** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Introduction%20(Slides).pdf)]
+**Introduction** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Introduction%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Slides/Introduction%20(Slides).pdf)]
 
 - [Video: Introduction to Public Management Economics](https://youtu.be/M5Q3xLzvfBY?si=psLbBeEe3KZsVPZW)
 
-Consumer Theory
+**Consumer Theory** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Consumer%20Theory%20(Notes).pdf)]
 
-- [Lecture Notes: Consumer Theory I](https://github.com/jrfdumortier/PME/raw/main/Consumer%20Theory%20I%20(Notes).pdf)
-- [Video:  Consumer Theory and Derivation of the Demand Function](https://youtu.be/0pKNamk8UUA?si=U_WD7LpAO2PYl7cF)
-- [Lecture Notes: Consumer Theory II](https://github.com/jrfdumortier/PME/raw/main/Consumer%20Theory%20II%20(Notes).pdf)
-- [Video:  Consumer Theory Applications](https://youtu.be/oG7GclC0ZgQ?si=yFgRnVMSFi-tot7S)
+- [Video: Consumer Theory and Derivation of the Demand Function](https://youtu.be/0pKNamk8UUA?si=U_WD7LpAO2PYl7cF)
+- [Video: Consumer Theory Applications](https://youtu.be/oG7GclC0ZgQ?si=yFgRnVMSFi-tot7S)
 
-Producer Theory [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Producer%20Theory%20(Notes).pdf)]
+**Producer Theory** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Producer%20Theory%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Slides/Producer%20Theory%20(Slides).pdf)]
 
-- [Slides: Producer Theory](https://github.com/jrfdumortier/PME/raw/main/Producer%20Theory%20(Slides).pdf)
-- There are multiple videos for this section and the suggested watching order is as follows:
-     1. [Brief Introduction to Producer Theory](https://youtu.be/MnxhPmNAiBY)
-     2. [Producer Theory](https://youtu.be/EilB16BfgG0)
-     3. [Short-Run and Long-Run Expansion Path of Firms](https://youtu.be/InGKsb2M9_M)
-     4. [Profit Maximization](https://youtu.be/hys53bsCIvc)
+- [Video: Brief Introduction to Producer Theory](https://youtu.be/MnxhPmNAiBY)
+- [Video: Producer Theory](https://youtu.be/EilB16BfgG0)
+- [Video: Short-Run and Long-Run Expansion Path of Firms](https://youtu.be/InGKsb2M9_M)
+- [Video: Profit Maximization](https://youtu.be/hys53bsCIvc)
      
-Cost Theory
+**Cost Theory** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Cost%20Theory%20(Notes).pdf)]
 
-- [Lecture Notes: Cost Theory](https://github.com/jrfdumortier/PME/raw/main/Cost%20Theory%20(Notes).pdf)
 - [Video: Cost Theory](https://youtu.be/gbk74yfAXhw?si=KHQxJkaP5-c_jpnJ)
 
-Demand and Supply
+**Demand and Supply** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Demand%20and%20Supply%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Slides/Demand%20and%20Supply%20(Slides).pdf)]
 
-- [Lecture Notes: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Notes).pdf)
-- [Slides: Demand and Supply](https://github.com/jrfdumortier/PME/raw/main/Demand%20and%20Supply%20(Slides).pdf)
 - [Video: Demand and Supply](https://youtu.be/DAOoQX5_RKg?si=QTfWWKDPU_pzWaxF)
 
-Perfect Competition
+**Perfect Competition** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Perfect%20Competition%20(Notes).pdf)]
 
-- [Lecture Notes: Perfect Competition](https://github.com/jrfdumortier/PME/raw/main/Perfect%20Competition%20(Notes).pdf)
 - [Video: Representation of Profit and Loss given Marginal and Average Cost](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 - [Video:  Long-Run Equilibrium in a Perfectly Competitive Market and Zero Economic Profit Condition ](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 - [Video: Taxes](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 - [Video: Price Ceilings and Price Floors](https://youtu.be/QFpjRTKxpZE?si=ZEx7LAd2Un6g43lw)
 
-Imperfect Competition
+**Imperfect Competition** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Imperfect%20Competition%20(Notes).pdf)]
 
-- [Lecture Notes: Imperfect Competition](https://github.com/jrfdumortier/PME/raw/main/Imperfect%20Competition%20(Notes).pdf)
 - [Video: Imperfect Competition](https://youtu.be/CK3dcB7lrYI?si=WLIBlNR2LgDuyai0)
 
-Game Theory
+**Game Theory** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Game%20Theory%20(Notes).pdf)][[Slides](https://github.com/jrfdumortier/PME/raw/main/Slides/Game%20Theory%20(Slides).pdf)]
 
-- [Lecture Notes: Game Theory](https://github.com/jrfdumortier/PME/raw/main/Game%20Theory%20(Notes).pdf)
-- [Slides: Game Theory](https://github.com/jrfdumortier/PME/raw/main/Game%20Theory%20(Slides).pdf)
 - [Video: Basics of Game Theory](https://youtu.be/zQBZvcEUo5s)
 - [Video: Sequential Games and Entry Deterrence](https://youtu.be/D1Ij0o1FEYI)
 
-Externalities
+**Externalities** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Externalities%20(Notes).pdf)]
 
-- [Lecture Notes: Externalities](https://github.com/jrfdumortier/PME/raw/main/Externalities%20(Notes).pdf)
 - [Video: Positive and Negative Externalities](https://youtu.be/bXkJ2aCP4-4?si=AQMPmAEDyw0-GTdg)
 - [Video: Pollution Control Policies](https://youtu.be/fbDIqlCzD4E?si=WyKg6xTgLhWxOsbT)
 
-Public Goods and Asymmetric Information [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
+**Public Goods and Asymmetric Information*** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
 
 - [Video: Introduction to Public Goods](https://youtu.be/XZrOdBuMpuo)
 - [Video: Asymmetric Information and Insurance Markets](https://youtu.be/k3veHT4rSiU?si=3m9iaYA1U06JlYnd)
