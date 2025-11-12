@@ -45,7 +45,11 @@
 - [Video: Positive and Negative Externalities](https://youtu.be/bXkJ2aCP4-4?si=AQMPmAEDyw0-GTdg)
 - [Video: Pollution Control Policies](https://youtu.be/fbDIqlCzD4E?si=WyKg6xTgLhWxOsbT)
 
-**Public Goods and Asymmetric Information*** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
+**Public Goods and Asymmetric Information** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
 
 - [Video: Introduction to Public Goods](https://youtu.be/XZrOdBuMpuo)
 - [Video: Asymmetric Information and Insurance Markets](https://youtu.be/k3veHT4rSiU?si=3m9iaYA1U06JlYnd)
+
+**Risk and Uncertainty** [[Slides](https://github.com/jrfdumortier/PME/raw/main/Slides/Risk%20Uncertainty%20(Slides).pdf)]
+
+- [Video: Risk and Uncertainty](https://youtu.be/kK4o81F4yWI?si=EN4kLDLD5FT4Z1TF)
