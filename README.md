@@ -40,13 +40,10 @@
 - [Video: Basics of Game Theory](https://youtu.be/zQBZvcEUo5s)
 - [Video: Sequential Games and Entry Deterrence](https://youtu.be/D1Ij0o1FEYI)
 
-**Externalities** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Externalities%20(Notes).pdf)]
+**Market Failures and Public Policy** [[Notes](https://github.com/jrfdumortier/PME/raw/main/Notes/Market%20Failures%20and%20Public%20Policy%20(Notes).pdf)]
 
 - [Video: Positive and Negative Externalities](https://youtu.be/bXkJ2aCP4-4?si=AQMPmAEDyw0-GTdg)
 - [Video: Pollution Control Policies](https://youtu.be/fbDIqlCzD4E?si=WyKg6xTgLhWxOsbT)
-
-**Public Goods and Asymmetric Information** [[Lecture Notes](https://github.com/jrfdumortier/PME/raw/main/Public%20Goods%20(Notes).pdf)]
-
 - [Video: Introduction to Public Goods](https://youtu.be/XZrOdBuMpuo)
 - [Video: Asymmetric Information and Insurance Markets](https://youtu.be/k3veHT4rSiU?si=3m9iaYA1U06JlYnd)
 
